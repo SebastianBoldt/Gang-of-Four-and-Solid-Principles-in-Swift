@@ -2,7 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:GOFSwift.playground">
+      location = "group:Structural.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/sebastianboldt/Developer/iOS-Projects/GOFSwift/Behavioral.playground">
    </FileRef>
    <FileRef
       location = "group:README.md">

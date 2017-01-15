@@ -27,7 +27,7 @@ Inspired by: https://github.com/ochococo/Design-Patterns-In-Swift
 ##Structural
 
 * Adapter
-* Bridge
+* ✅ Bridge
 * Composite
 * Decorator
 * Facade

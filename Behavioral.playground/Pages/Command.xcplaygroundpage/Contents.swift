@@ -1,5 +1,11 @@
 //: [Previous](@previous)
 
+/*:
+ ## Command Pattern
+ 
+ Wrapping functions into object with generalized interface
+*/
+
 import Foundation
 
 protocol DoorCommand {
