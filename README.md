@@ -1,11 +1,11 @@
 # GOFSwift
-👨‍👩‍👧‍👦 All GOF patterns implemented in Swift using Playgrounds
+👨‍👩‍👧‍👦 My personal Repo to learn all GOF patterns using Swift and Playgrounds
 
 Inspired by: https://github.com/ochococo/Design-Patterns-In-Swift
 
 ##Behavioral
 
-* Chain Of Responsibility
+* Chain Of Responsibility ✅
 * Interpreter
 * Iterator
 * Mediator
