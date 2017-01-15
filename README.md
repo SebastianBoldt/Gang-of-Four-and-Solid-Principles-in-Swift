@@ -6,7 +6,7 @@ Inspired by: https://github.com/ochococo/Design-Patterns-In-Swift
 ##Behavioral
 
 * Chain Of Responsibility ✅
-* Command 
+* Command ✅
 * Interpreter
 * Iterator
 * Mediator

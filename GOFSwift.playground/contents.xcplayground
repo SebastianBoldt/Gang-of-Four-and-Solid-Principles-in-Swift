@@ -3,5 +3,6 @@
     <pages>
         <page name='Intro'/>
         <page name='Chain of Responsibility '/>
+        <page name='Command'/>
     </pages>
 </playground>
