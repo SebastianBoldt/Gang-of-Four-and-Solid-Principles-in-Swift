@@ -11,13 +11,13 @@ Inspired by: https://github.com/ochococo/Design-Patterns-In-Swift
 
 * ✅ Chain Of Responsibility 
 * ✅ Command
+* ✅ Iterator
+* ❌ Strategy
 * ❌ Interpreter
-* ❌ Iterator
 * ❌ Mediator
 * ❌ Memento
 * ❌ Observer
 * ❌ State
-* ❌ Strategy
 * ❌ Visitor
 
 ##Creational
