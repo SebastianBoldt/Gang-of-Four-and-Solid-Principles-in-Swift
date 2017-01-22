@@ -4,5 +4,6 @@
         <page name='Chain of Responsibility '/>
         <page name='Command'/>
         <page name='Iterator'/>
+        <page name='Strategy'/>
     </pages>
 </playground>

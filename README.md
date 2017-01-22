@@ -12,7 +12,7 @@ Inspired by: https://github.com/ochococo/Design-Patterns-In-Swift
 * ✅ Chain Of Responsibility 
 * ✅ Command
 * ✅ Iterator
-* ❌ Strategy
+* ✅ Strategy
 * ❌ Interpreter
 * ❌ Mediator
 * ❌ Memento
