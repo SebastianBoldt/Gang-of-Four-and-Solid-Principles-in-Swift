@@ -3,34 +3,37 @@
 
 Inspired by: https://github.com/ochococo/Design-Patterns-In-Swift
 
+✅ Implemented 
+❌ Waiting for Implementation
+
 ##Behavioral
 
 * ✅ Chain Of Responsibility 
 * ✅ Command
-* Interpreter
-* Iterator
-* Mediator
-* Memento
-* Observer
-* State
-* Strategy
-* Visitor
+* ❌ Interpreter
+* ❌ Iterator
+* ❌ Mediator
+* ❌ Memento
+* ❌ Observer
+* ❌ State
+* ❌ Strategy
+* ❌ Visitor
 
 ##Creational
 
 * ✅ Singleton
 * ✅ Prototype
-* Abstract Factory
-* Builder
-* Factory Method
+* ❌ Abstract Factory
+* ❌ Builder
+* ❌ Factory Method
 
 ##Structural
 
 * ✅ Bridge
-* Adapter
-* Composite
-* Decorator
-* Facade
-* Flyweight
-* Protection Proxy
-* Virtual Proxy
+* ❌ Adapter
+* ❌ Composite
+* ❌ Decorator
+* ❌ Facade
+* ❌ Flyweight
+* ❌ Protection Proxy
+* ❌ Virtual Proxy
