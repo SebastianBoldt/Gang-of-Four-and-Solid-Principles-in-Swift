@@ -18,16 +18,16 @@ Inspired by: https://github.com/ochococo/Design-Patterns-In-Swift
 
 ##Creational
 
+* ✅ Singleton
+* ✅ Prototype
 * Abstract Factory
 * Builder
 * Factory Method
-* Prototype
-* Singleton
 
 ##Structural
 
-* Adapter
 * ✅ Bridge
+* Adapter
 * Composite
 * Decorator
 * Facade
