@@ -3,9 +3,9 @@
 
 Inspired by: https://github.com/ochococo/Design-Patterns-In-Swift
 
-✅ Implemented 
+✅ Implemented and internalized
 
-❌ Waiting for Implementation
+❌ Waiting for implementation
 
 ##Behavioral
 
@@ -32,8 +32,8 @@ Inspired by: https://github.com/ochococo/Design-Patterns-In-Swift
 
 * ✅ Bridge
 * ✅ Decorator
+* ✅ Composite
 * ❌ Adapter
-* ❌ Composite
 * ❌ Facade
 * ❌ Flyweight
 * ❌ Protection Proxy

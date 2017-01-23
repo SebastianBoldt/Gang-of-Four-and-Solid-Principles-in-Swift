@@ -3,5 +3,6 @@
     <pages>
         <page name='Bridge'/>
         <page name='Decorator'/>
+        <page name='Composite'/>
     </pages>
 </playground>
