@@ -31,9 +31,9 @@ Inspired by: https://github.com/ochococo/Design-Patterns-In-Swift
 ##Structural
 
 * ✅ Bridge
+* ✅ Decorator
 * ❌ Adapter
 * ❌ Composite
-* ❌ Decorator
 * ❌ Facade
 * ❌ Flyweight
 * ❌ Protection Proxy
