@@ -13,8 +13,8 @@ Inspired by: https://github.com/ochococo/Design-Patterns-In-Swift
 * ✅ Command
 * ✅ Iterator
 * ✅ Strategy
+* ✅ Mediator
 * ❌ Interpreter
-* ❌ Mediator
 * ❌ Memento
 * ❌ Observer
 * ❌ State

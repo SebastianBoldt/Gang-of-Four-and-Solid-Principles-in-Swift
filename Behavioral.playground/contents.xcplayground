@@ -5,5 +5,6 @@
         <page name='Command'/>
         <page name='Iterator'/>
         <page name='Strategy'/>
+        <page name='Mediator'/>
     </pages>
 </playground>
