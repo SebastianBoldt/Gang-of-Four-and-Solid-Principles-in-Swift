@@ -1,8 +1,6 @@
 # GOFSwift
 👨‍👩‍👧‍👦 My personal Repo to learn all GOF patterns using Swift and Playgrounds
 
-Inspired by: https://github.com/ochococo/Design-Patterns-In-Swift
-
 ✅ Implemented and internalized
 
 ❌ Waiting for implementation
