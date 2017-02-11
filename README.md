@@ -23,8 +23,8 @@
 * ✅ Singleton
 * ✅ Prototype
 * ✅ Factory Method
+* ✅ Builder 
 * ❌ Abstract Factory
-* ❌ Builder
 
 
 ##Structural
