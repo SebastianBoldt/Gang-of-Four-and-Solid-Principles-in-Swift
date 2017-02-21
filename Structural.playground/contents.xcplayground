@@ -4,5 +4,6 @@
         <page name='Bridge'/>
         <page name='Decorator'/>
         <page name='Composite'/>
+        <page name='Adapter'/>
     </pages>
 </playground>

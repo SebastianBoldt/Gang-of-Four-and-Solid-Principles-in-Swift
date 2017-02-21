@@ -32,7 +32,7 @@
 * ✅ Bridge
 * ✅ Decorator
 * ✅ Composite
-* ❌ Adapter
+* ✅ Adapter
 * ❌ Facade
 * ❌ Flyweight
 * ❌ Protection Proxy
