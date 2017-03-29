@@ -5,7 +5,7 @@
 
 ❌ Waiting for implementation
 
-##Behavioral
+## Behavioral
 
 * ✅ Chain Of Responsibility 
 * ✅ Command
@@ -18,7 +18,7 @@
 * ❌ State
 * ❌ Visitor
 
-##Creational
+## Creational
 
 * ✅ Singleton
 * ✅ Prototype
@@ -27,7 +27,7 @@
 * ❌ Abstract Factory
 
 
-##Structural
+## Structural
 
 * ✅ Bridge
 * ✅ Decorator
