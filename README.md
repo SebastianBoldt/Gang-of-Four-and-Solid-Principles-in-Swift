@@ -12,11 +12,11 @@
 * ✅ Iterator
 * ✅ Strategy
 * ✅ Mediator
+* ✅ Visitor
 * ❌ Interpreter
 * ❌ Memento
 * ❌ Observer
 * ❌ State
-* ❌ Visitor
 
 ## Creational
 
@@ -34,6 +34,6 @@
 * ✅ Composite
 * ✅ Adapter
 * ✅ Flyweight
-* Facade
+* ✅ Facade
 * ❌ Protection Proxy
 * ❌ Virtual Proxy

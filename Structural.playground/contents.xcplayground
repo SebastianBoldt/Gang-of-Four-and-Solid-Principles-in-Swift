@@ -6,5 +6,6 @@
         <page name='Composite'/>
         <page name='Adapter'/>
         <page name='Flyweight'/>
+        <page name='Facade'/>
     </pages>
 </playground>
