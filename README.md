@@ -13,9 +13,9 @@
 * ✅ Strategy
 * ✅ Mediator
 * ✅ Visitor
+* ✅ Observer
 * ❌ Memento
 * ❌ Interpreter
-* ❌ Observer
 * ❌ State
 
 ## Creational

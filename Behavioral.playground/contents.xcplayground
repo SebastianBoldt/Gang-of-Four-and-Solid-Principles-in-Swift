@@ -6,5 +6,7 @@
         <page name='Iterator'/>
         <page name='Strategy'/>
         <page name='Mediator'/>
+        <page name='Observer'/>
+        <page name='Visitor'/>
     </pages>
 </playground>
