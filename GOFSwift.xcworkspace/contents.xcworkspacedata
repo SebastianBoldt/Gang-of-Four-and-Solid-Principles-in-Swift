@@ -8,9 +8,9 @@
       location = "group:Structural.playground">
    </FileRef>
    <FileRef
-      location = "group:/Users/sebastianboldt/Developer/iOS-Projects/GOFSwift/Behavioral.playground">
+      location = "group:README.md">
    </FileRef>
    <FileRef
-      location = "group:README.md">
+      location = "group:Behavioral.playground">
    </FileRef>
 </Workspace>

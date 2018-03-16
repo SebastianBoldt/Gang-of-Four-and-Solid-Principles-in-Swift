@@ -33,7 +33,7 @@
 * ✅ Decorator
 * ✅ Composite
 * ✅ Adapter
+* ✅ Flyweight
 * ❌ Facade
-* ❌ Flyweight
 * ❌ Protection Proxy
 * ❌ Virtual Proxy
