@@ -13,8 +13,8 @@
 * ✅ Strategy
 * ✅ Mediator
 * ✅ Visitor
-* ❌ Interpreter
 * ❌ Memento
+* ❌ Interpreter
 * ❌ Observer
 * ❌ State
 
@@ -35,5 +35,5 @@
 * ✅ Adapter
 * ✅ Flyweight
 * ✅ Facade
-* ❌ Protection Proxy
-* ❌ Virtual Proxy
+* ✅ Protection Proxy
+* ✅ Virtual Proxy

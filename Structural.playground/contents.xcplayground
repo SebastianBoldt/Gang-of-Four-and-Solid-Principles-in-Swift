@@ -7,5 +7,7 @@
         <page name='Adapter'/>
         <page name='Flyweight'/>
         <page name='Facade'/>
+        <page name='Protection Proxy'/>
+        <page name='Virtual Proxy'/>
     </pages>
 </playground>
