@@ -2,13 +2,13 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <FileRef
       location = "group:Creational.playground">
    </FileRef>
    <FileRef
       location = "group:Structural.playground">
-   </FileRef>
-   <FileRef
-      location = "group:README.md">
    </FileRef>
    <FileRef
       location = "group:Behavioral.playground">

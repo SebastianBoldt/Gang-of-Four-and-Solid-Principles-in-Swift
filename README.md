@@ -24,7 +24,7 @@
 * ✅ Prototype
 * ✅ Factory Method
 * ✅ Builder 
-* ❌ Abstract Factory
+* ✅ Abstract Factory
 
 
 ## Structural
