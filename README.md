@@ -34,6 +34,6 @@
 * ✅ Composite
 * ✅ Adapter
 * ✅ Flyweight
-* ❌ Facade
+* Facade
 * ❌ Protection Proxy
 * ❌ Virtual Proxy
