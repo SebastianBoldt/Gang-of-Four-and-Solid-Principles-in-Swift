@@ -14,9 +14,9 @@
 * ✅ Mediator
 * ✅ Visitor
 * ✅ Observer
-* ❌ Memento
-* ❌ Interpreter
+* ✅ Memento
 * ❌ State
+* ❌ Interpreter
 
 ## Creational
 

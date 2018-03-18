@@ -8,5 +8,6 @@
         <page name='Mediator'/>
         <page name='Observer'/>
         <page name='Visitor'/>
+        <page name='Memento'/>
     </pages>
 </playground>
