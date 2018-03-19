@@ -9,41 +9,64 @@
 
 ### Behavioral
 
-* ✅ Chain Of Responsibility 
-* ✅ Command
-* ✅ Iterator
-* ✅ Strategy
-* ✅ Mediator
-* ✅ Visitor
-* ✅ Observer
-* ✅ Memento
-* ✅ State
-* ❌ Interpreter
+✅ Chain Of Responsibility
+
+✅ Command
+
+✅ Iterator
+
+✅ Strategy
+
+✅ Mediator
+
+✅ Visitor
+
+✅ Observer
+
+✅ Memento
+
+✅ State
+
+❌ Interpreter
 
 ### Creational
 
-* ✅ Singleton
-* ✅ Prototype
-* ✅ Factory Method
-* ✅ Builder 
-* ✅ Abstract Factory
+✅ Singleton
 
+✅ Prototype
+
+✅ Factory Method
+
+✅ Builder
+
+✅ Abstract Factory
 
 ### Structural
 
-* ✅ Bridge
-* ✅ Decorator
-* ✅ Composite
-* ✅ Adapter
-* ✅ Flyweight
-* ✅ Facade
-* ✅ Protection Proxy
-* ✅ Virtual Proxy
+✅ Bridge
+
+✅ Decorator
+
+✅ Composite
+
+✅ Adapter
+
+✅ Flyweight
+
+✅ Facade
+
+✅ Protection Proxy
+
+✅ Virtual Proxy
 
 ## S.O.L.I.D
 
-*  ❌ Single Responsibilty Principle  (SRP)
-*  ❌ Open Closed Principle (OCP)
-*  ❌ Liskov Substitution Principle (LSP)
-*  ❌ Interface Segregation Principle (ISP)
-*  ❌ Dependency Inversion Principle (DIP)
+✅ Dependency Inversion Principle (DIP)
+
+❌ Single Responsibilty Principle  (SRP)
+
+❌ Open Closed Principle (OCP)
+
+❌ Liskov Substitution Principle (LSP)
+
+❌ Interface Segregation Principle (ISP)
