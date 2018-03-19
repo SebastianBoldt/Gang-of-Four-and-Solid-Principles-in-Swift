@@ -6,8 +6,9 @@
         <page name='Iterator'/>
         <page name='Strategy'/>
         <page name='Mediator'/>
-        <page name='Observer'/>
         <page name='Visitor'/>
         <page name='Memento'/>
+        <page name='Observer'/>
+        <page name='State'/>
     </pages>
 </playground>

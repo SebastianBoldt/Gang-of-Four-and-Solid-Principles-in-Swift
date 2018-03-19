@@ -1,6 +1,7 @@
 //: [Previous](@previous)
 
 import Foundation
+import CoreGraphics
 
 protocol Soldier {
     func render(from location: CGPoint, to newLocation: CGPoint)
