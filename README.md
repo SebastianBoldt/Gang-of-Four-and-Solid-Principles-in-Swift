@@ -67,6 +67,6 @@
 
 ✅ Open Closed Principle (OCP)
 
-❌ Liskov Substitution Principle (LSP)
+✅ Interface Segregation Principle (ISP)
 
-❌ Interface Segregation Principle (ISP)
+❌ Liskov Substitution Principle (LSP)
