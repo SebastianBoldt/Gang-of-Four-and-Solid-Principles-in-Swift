@@ -63,7 +63,7 @@
 
 ✅ Dependency Inversion Principle (DIP)
 
-❌ Single Responsibilty Principle  (SRP)
+✅ Single Responsibilty Principle  (SRP)
 
 ❌ Open Closed Principle (OCP)
 
