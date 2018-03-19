@@ -1,11 +1,13 @@
-# GOFSwift
-👨‍👩‍👧‍👦 My personal Repo to learn all GOF patterns using Swift and Playgrounds
+# GoF & S.O.L.I.D in Swift
+👨‍👩‍👧‍👦 My personal Repo to learn all GOF und SOLID Patterns using Swift and Playgrounds
 
 ✅ Implemented and internalized
 
 ❌ Waiting for implementation
 
-## Behavioral
+## GoF - Gang of Four
+
+### Behavioral
 
 * ✅ Chain Of Responsibility 
 * ✅ Command
@@ -18,7 +20,7 @@
 * ✅ State
 * ❌ Interpreter
 
-## Creational
+### Creational
 
 * ✅ Singleton
 * ✅ Prototype
@@ -27,7 +29,7 @@
 * ✅ Abstract Factory
 
 
-## Structural
+### Structural
 
 * ✅ Bridge
 * ✅ Decorator
@@ -37,3 +39,11 @@
 * ✅ Facade
 * ✅ Protection Proxy
 * ✅ Virtual Proxy
+
+## S.O.L.I.D
+
+*  ❌ Single Responsibilty Principle  (SRP)
+*  ❌ Open Closed Principle (OCP)
+*  ❌ Liskov Substitution Principle (LSP)
+*  ❌ Interface Segregation Principle (ISP)
+*  ❌ Dependency Inversion Principle (DIP)
