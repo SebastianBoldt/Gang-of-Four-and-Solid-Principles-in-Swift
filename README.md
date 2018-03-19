@@ -15,7 +15,7 @@
 * ✅ Visitor
 * ✅ Observer
 * ✅ Memento
-* ❌ State
+* ✅ State
 * ❌ Interpreter
 
 ## Creational
