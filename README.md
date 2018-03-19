@@ -1,4 +1,4 @@
-# GoF & S.O.L.I.D in Swift
+# GoF & SOLID in Swift
 👨‍👩‍👧‍👦 My personal Repo to learn all GOF und SOLID Patterns using Swift and Playgrounds
 
 ✅ Implemented and internalized
@@ -59,13 +59,13 @@
 
 ✅ Virtual Proxy
 
-## S.O.L.I.D
+## SOLID
 
 ✅ Dependency Inversion Principle (DIP)
 
 ✅ Single Responsibilty Principle  (SRP)
 
-❌ Open Closed Principle (OCP)
+✅ Open Closed Principle (OCP)
 
 ❌ Liskov Substitution Principle (LSP)
 
