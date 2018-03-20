@@ -27,7 +27,7 @@
 
 ✅ State
 
-❌ Interpreter
+✅ Interpreter
 
 ### Creational
 

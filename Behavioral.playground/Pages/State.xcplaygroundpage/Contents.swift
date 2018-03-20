@@ -10,7 +10,7 @@ final class UserContext {
     private var userId: String
     private var state: State = UnauthorizedState()
     
-    init(userID: String) {
+    init(userId: String) {
         self.userId = userId
     }
     
