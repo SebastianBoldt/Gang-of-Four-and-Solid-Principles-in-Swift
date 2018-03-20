@@ -11,17 +11,9 @@ protocol FatProtocol {
 }
 
 struct ExtendedButton: FatProtocol {
-    func tap() {
-        
-    }
-    
-    func doubleTap() {
-        
-    }
-    
-    func longTap() {
-        
-    }
+    func tap() {}
+    func doubleTap() {}
+    func longTap() {}
 }
 
 struct SimpleButton: FatProtocol {
@@ -30,11 +22,9 @@ struct SimpleButton: FatProtocol {
         // All the other functions are irrelavant
     }
     
-    func doubleTap() {
-    }
+    func doubleTap() {}
     
-    func longTap() {
-    }
+    func longTap() {}
 }
 
 

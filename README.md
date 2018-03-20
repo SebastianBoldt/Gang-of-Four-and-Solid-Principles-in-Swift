@@ -69,4 +69,4 @@
 
 ✅ Interface Segregation Principle (ISP)
 
-❌ Liskov Substitution Principle (LSP)
+✅ Liskov Substitution Principle (LSP)

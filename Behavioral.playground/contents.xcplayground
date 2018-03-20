@@ -10,5 +10,6 @@
         <page name='Memento'/>
         <page name='Observer'/>
         <page name='State'/>
+        <page name='Interpreter'/>
     </pages>
 </playground>
